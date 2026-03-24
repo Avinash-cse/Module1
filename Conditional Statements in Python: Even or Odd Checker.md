@@ -20,6 +20,7 @@ else:
     print("ODD")
     
 ## Output
-https://private-user-images.githubusercontent.com/182346757/566750480-9aa09087-c1ba-41ad-8f53-4abbbce57d55.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzQzMzg4MzcsIm5iZiI6MTc3NDMzODUzNywicGF0aCI6Ii8xODIzNDY3NTcvNTY2NzUwNDgwLTlhYTA5MDg3LWMxYmEtNDFhZC04ZjUzLTRhYmJiY2U1N2Q1NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMyNFQwNzQ4NTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lM2FjNjY0YWQ4ZDRmMmJkMmZmYzhhNTZiMzgwYjRhZWQ0N2UyMzMzMjAwNjUzMzhlZWE3MTAxNzBkNzAzOWM3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.oatFCxCXArsEX4hjH48EuoBho-LoHbyQPqJdqV0gff0
+<img width="1137" height="204" alt="p1 1" src="https://github.com/user-attachments/assets/40ce77f5-8b56-4d54-ae53-532d1a0d25aa" />
+
 ## Result
 Therefore to write a Python program to check whether the given number is even or odd using if...else statements is compiled and the output is verified successfully.
